@@ -96,7 +96,7 @@ Our Spotify's 2023 Streaming Hits project utilizes a combination of powerful tec
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. We welcome your insights and enhancements!
   
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the LGPL-2.1 License - see the LICENSE.md file for details.
 
 # Acknowledgments
 Special thanks to the Spotify Web API for granting access to the musical heartbeat of 2023!
